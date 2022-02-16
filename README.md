@@ -5,7 +5,7 @@
      pronouns: "he" | "him",
      code: [Javascript, HTML, CSS],
      tools: [React, Styled-Components],
-     challenge: "I am currently learning react and typescript"
+     challenge: "I am currently learning react and Solidity"
   }
   ```
 💁‍♂️ Fun fact: I love making memes
