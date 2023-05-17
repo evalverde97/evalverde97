@@ -5,10 +5,9 @@
      pronouns: "he" | "him",
      code: [Javascript, HTML, CSS],
      tools: [React, Styled-Components],
-     challenge: "I am currently learning react and Solidity"
+     challenge: "I am currently learning backend"
   }
   ```
-💁‍♂️ Fun fact: I love making memes
 
 📫 How to reach me: ezequielvalverde97@gmail.com
 
