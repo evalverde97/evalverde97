@@ -3,9 +3,8 @@
 ```js
   const Eze = {
      pronouns: "he" | "him",
-     code: [Javascript, HTML, CSS],
+     code: [Javascript, HTML, CSS, GO, Java, SQL],
      tools: [React, Styled-Components],
-     challenge: "I am currently learning backend"
   }
   ```
 
